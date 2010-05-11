@@ -1,0 +1,30 @@
+/* this file is only for running the Rico 2.0 examples */
+
+* {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size:small;
+}
+
+#explanation {
+  background-color:#444444;
+  font-size:smaller;
+  margin-bottom:0.5em;
+}
+
+p.ricoBookmark { clear:both; }
+
+form#settings {
+  font-size:smaller;
+  margin: 0px 10px 0px 0px;
+  padding: 3px;
+  border: 1px solid black;
+}
+
+.appHeader {
+	margin:0px;
+}
+
+#DrillDownDesc {
+  font-weight: normal;
+font-size:small;
+}

@@ -1,0 +1,24 @@
+body { /* défini le body (la page) */
+  background-color:white ; /* le fond de la page est blanc */
+  color:black ; /* les textes sont noirs */
+  margin:0 ; padding:0;margin-top:20;} /* suppression des marges intérieures et extérieures de la page */
+
+.menu1 { /* boite qui contient le menu (les onglets) */
+  border-bottom:solid 2px black ; /* crée le trait noir en-dessous des onglets */
+  padding-top:12px ; /* marge intérieure haute */
+  padding-bottom:0px ; /* marge intérieure basse */
+  background-color:green} /* le fond du menu est noir */
+
+.onglet { /* style des onglets inactifs */
+  margin : 0px ; /* marge extérieure */
+  padding:5px 7px 0px 7px ; /* marge intérieure */
+ /* font-size:10pt; ; */ 
+  background:url(coin-haut-droite.gif) no-repeat right top} /* insère un rectangle noir en haut à droite de l'onglet */
+
+a.onglet { /* style des liens se trouvant dans un onglet inactif */
+  background-color:#E7E4E4 ; /* le fond de l'onglet est gris */
+  text-decoration:none} /* les liens ne sont pas soulignés */
+
+.onglet-actif { /* style de l'onglet de la page active */
+   border-bottom:solid 2px white ; /* le trait inférieur est effacé */
+   background-color:white} /* le fond de l'onglet actif est blanc*/

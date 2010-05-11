@@ -1,0 +1,25 @@
+#header_vac {
+	height: 30px; /* 50px;  */
+	background-color: #99CCCC;
+	font-size: 14pt;
+	text-align:center;
+	padding-top:20px;
+	padding-bottom:5px;
+	text-transform: uppercase;
+	vertical-align: middle;
+	font-weight: bold;
+	font-variant: small-caps;
+	color: white;
+	border-top: thin solid #3d2eff;
+	border-bottom: thin solid #3d2eff;
+}
+
+#header_st {
+	font-size: 10pt;
+	text-align:center;
+	text-transform: none;
+	color: navy;
+	position: static;
+	font-variant: normal;
+	padding-top:5px;
+}

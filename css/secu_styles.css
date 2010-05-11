@@ -1,0 +1,36 @@
+body {
+  	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:75%;
+	margin: 10px;
+  	color:#666; 
+	text-align:center; /* pour IExplorer !!!*/
+}
+
+#cadre {
+  	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:100%;
+  	color:#666;
+	background: #FFFF88;
+	text-align: right; 
+	padding: 30px;
+	border: 2px #999 solid;
+	border-color: #FF0000;
+	margin-left: auto; 
+	margin-right: auto;
+	width:400px;
+
+}
+#fieldset {
+	color: #999;
+	background: white;
+	border: 2px #999 solid;
+
+	margin-left: 5px;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+#message {
+	color: #FF0000;
+}
